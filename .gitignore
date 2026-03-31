@@ -12,6 +12,14 @@ dist
 dist-ssr
 *.local
 
+# Claude / project tooling
+.claude/
+CLAUDE.md
+AGENTS.md
+PLAN.md
+notes/
+.beads/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
