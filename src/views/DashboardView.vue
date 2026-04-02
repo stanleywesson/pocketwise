@@ -1,5 +1,9 @@
-    <script setup lang="ts">
+<script setup lang="ts">
 </script>
-    
-    <template>
-    </template>
+
+<template>
+  <div class="dashboard-view">
+    <h1>Dashboard</h1>
+    <p>This is the dashboard view.</p>
+  </div>
+</template>
